@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=theName\ theEmail\ thePhone
+comment0.target=Message(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ displayEmail()
+comment2.params=
+comment2.target=void\ displayPhone()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
